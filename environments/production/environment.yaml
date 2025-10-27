@@ -23,7 +23,7 @@ app:
   
   resources:
     # max cpu. memory limit is based on cpu value: 1:3 memory ratio, e.g. 1 cpu == 3 gb
-    cpu: 14
+    cpu: 4
 
   # List of variables that can be referenced in the server.xml
   variables:
